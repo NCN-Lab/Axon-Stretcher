@@ -5,5 +5,5 @@ Axon-Stretcher system
 - Arduino firmware
 - control software
 
-Currently under review.
+Currently under review. Available upon request.
 Will be made visible shortly.
